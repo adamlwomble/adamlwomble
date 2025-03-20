@@ -1,7 +1,5 @@
 ## Lead User Experience (UX) Designer & Lead Front-end Developer
 
-_Patiently pursuing perfection._
-
 ### Summary
 
 As a passionate designer and practiced developer, I have a trained eye for small details and big pictures. Through conceptual design, my work displays a passion for creative solutions and clear communication. Through cohesive development, my work reflects a zeal for individual experiences and intuitive systems. I am honored to have [my work featured in Adobe’s curated App Design Gallery](https://www.behance.net/gallery/9295075/Mammoth-Mountain).
