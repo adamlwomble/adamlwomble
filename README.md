@@ -185,7 +185,9 @@ As a passionate designer and practiced developer, I have a trained eye for small
         <time datetime="2015-08">08/2015</time>–<time datetime="2016-04">04/2016</time>
       </dd>
       <dt>Description</dt>
-      <p>As Web Designer & Web Developer, I designed and developed university initiatives from concept to concrete. To accomplish the university’s goals, I established a comprehensive approach to content design and integrated user-centered design and development processes in Adobe CC applications, CSS, HTML, JS, Ruby, Sass, and Sinatra. Elevating content and delighting users, my work for Discoveries Magazine — the university’s scholarly publication — won consecutive annual American Advertising Federation (AAF) Awards.</p>
+      <dd>
+        <p>As Web Designer & Web Developer, I designed and developed university initiatives from concept to concrete. To accomplish the university’s goals, I established a comprehensive approach to content design and integrated user-centered design and development processes in Adobe CC applications, CSS, HTML, JS, Ruby, Sass, and Sinatra. Elevating content and delighting users, my work for Discoveries Magazine — the university’s scholarly publication — won consecutive annual American Advertising Federation (AAF) Awards.</p>
+      </dd>
     </dl>
   </li>
 </ol>
