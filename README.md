@@ -153,7 +153,7 @@ the product backlog in Azure DevOps.</p>
       </dd>
       <dt>Description</dt>
       <dd>
-        <p>As a Senior UX Designer & Senior Front-end Developer for web applications consulting the Tax Technology division of PricewaterhouseCoopers (PWC), I transformed complex concepts into simple solutions for novice and expert users. Leveraging modern design and development techniques and tools such as Angular, Azure DevOps Services, CSS, Git, HTML, InVision, JS, Sass, Sketch, and Webpack, I created articulate architectures, limber libraries, and salient solutions while reviewing, improving, and approving the work of designers and developers.</p>
+        <p>As a Senior UX Designer & Senior Front-end Developer for web applications consulting the Tax Technology division of PricewaterhouseCoopers (PwC), I transformed complex concepts into simple solutions for novice and expert users. Leveraging modern design and development techniques and tools such as Angular, Azure DevOps Services, CSS, Git, HTML, InVision, JS, Sass, Sketch, and Webpack, I created articulate architectures, limber libraries, and salient solutions while reviewing, improving, and approving the work of designers and developers.</p>
       </dd>
     </dl>
   </li>
