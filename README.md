@@ -11,8 +11,8 @@ As a passionate designer and practiced developer, I have a trained eye for small
 - Branding
 - Copywriting
 - Information Architecture (IA)
-- UX Systems
 - User Interface (UI) Libraries
+- UX Systems
 
 #### Development
 
